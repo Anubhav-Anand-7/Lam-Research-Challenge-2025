@@ -1,7 +1,7 @@
 # Circuit Raja – Hardware Hustle: Lam Research Challenge 2025
 
 ## Overview
-This repository contains the complete system design and technical implementation for the **Hardware Hustle: Lam Research Challenge 2025**, developed by **Team Circuit Raja (Team ID: LRC-U-0053-6)**.
+This repository contains the complete system design and technical implementation for the **Hardware Hustle Round : Lam Research Challenge 2025**, developed by **Team Circuit Raja (Team ID: LRC-U-0053-6)**.
 
 The solution consists of two coordinated robots and a centralized arena automation system designed to operate reliably under real-time constraints and complete all tasks within the competition time limit.
 
